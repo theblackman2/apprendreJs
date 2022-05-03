@@ -17,6 +17,4 @@ function leapYear(year) {
   }
 }
 
-console.log(leapYear(2500))
-
-// module.exports = leapYear;
+module.exports = leapYear;
