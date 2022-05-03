@@ -15,6 +15,4 @@ function multiple_3_5(n) {
 
 }
 
-console.log(multiple_3_5(15))
-
-// module.exports = multiple_3_5;
+module.exports = multiple_3_5;
