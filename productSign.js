@@ -4,11 +4,11 @@ function productSign(n, m) {
   let product = n * m
 
   if(product < 0){
-    return "le produit est négatif"
+    return -1
   }else if(product > 0){
-    return "le produit est positif"
+    return 1
   }else{
-    return "le produit est nul"
+    return 0
   }
 }
 
